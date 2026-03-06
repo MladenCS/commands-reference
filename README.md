@@ -11,3 +11,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Linux Commands](linux-commands/linux-commands.md) - File operations, search, log analysis, networking & more
 * [Log File Locations](file-locations/log-locations.md) - Common log paths across services & OS
 * [Sigma Simple Example](detection-and-forensics/sigma-simple-example.md) - Sigma rule example
+* [Best Blue team tools](blue-team-tools.md) - Best blue team tools
