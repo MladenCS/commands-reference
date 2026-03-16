@@ -12,3 +12,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Log File Locations](file-locations/log-locations.md) - Common log paths across services & OS
 * [Sigma Simple Example](detection-and-forensics/sigma-simple-example.md) - Sigma rule example
 * [Best Blue team tools](blue-team-tools.md) - Best blue team tools
+* [Post-exploitation commands](post-exploitation.md) - Post-Exploitation & Privilege Escalation
