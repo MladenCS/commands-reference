@@ -13,3 +13,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Sigma Simple Example](detection-and-forensics/sigma-simple-example.md) - Sigma rule example
 * [Best Blue team tools](blue-team-tools.md) - Best blue team tools
 * [Post-exploitation commands](post-exploitation.md) - Post-Exploitation & Privilege Escalation
+* [privesc-path-hijacking](privesc-path-hijacking.md) - Privilege Escalation: PATH Hijacking
