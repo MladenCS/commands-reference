@@ -15,3 +15,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Post-exploitation commands](post-exploitation.md) - Post-Exploitation & Privilege Escalation
 * [privesc-path-hijacking](privesc-path-hijacking.md) - Privilege Escalation: PATH Hijacking
 * [Splunk SPL](splunk.md) - Splunk SPL (Search Processing Language)
+* [Advanced Splunk SPL](Advanced_Splunk.md) - Advanced Splunk SPL
