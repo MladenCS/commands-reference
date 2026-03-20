@@ -14,4 +14,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Best Blue team tools](blue-team-tools.md) - Best blue team tools
 * [Post-exploitation commands](post-exploitation.md) - Post-Exploitation & Privilege Escalation
 * [privesc-path-hijacking](privesc-path-hijacking.md) - Privilege Escalation: PATH Hijacking
-* [Splunk SPL](splunk.md)Splunk SPL (Search Processing Language)
+* [Splunk SPL](splunk.md) - Splunk SPL (Search Processing Language)
