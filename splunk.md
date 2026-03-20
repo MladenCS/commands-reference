@@ -84,6 +84,7 @@
 * Span by day: `index=main | timechart span=1d count`
 * Average over time: `index=main | timechart avg(bytes) by host`
 * Limit series: `index=main | timechart count by src_ip limit=5`
+* index=your_index_name earliest="04/15/2022:08:05:00" latest="04/15/2022:08:06:00"
 
 ## Transaction
 * Group events into transactions: `index=main | transaction session_id`
