@@ -18,3 +18,4 @@ A personal quick-reference for common CLI tools and commands.
 * [Advanced Splunk SPL](Advanced_Splunk.md) - Advanced Splunk SPL
 * [Search Engines for CyberSecurity](search-engines-for-cybersecurity.md) - Search Engines for CyberSecurity
 * [Best Places to Improve Cybersecurity Skills](cybersecurity-learning-platforms.md)  - Best Places to Improve Cybersecurity Skills
+* [Azure Powershell commands] (azure-powershell.md) - 30 Most Common Commands for AZ-104
